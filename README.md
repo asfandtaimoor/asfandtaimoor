@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://webkype.com/assets/img/banner/ecc3882e29654a291f8824494979145b.gif" alt="coding" />
+<img align="right" style="width:100%" src="https://webkype.com/assets/img/banner/ecc3882e29654a291f8824494979145b.gif" alt="coding" />
 <h1 align="center">Hi 👋, I'm Taimoor Salyhal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
