@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://taimoorsalyhal.tech/](https://taimoorsalyhal.tech/)
+<!-- - 👨‍💻 All of my projects are available at [https://taimoorsalyhal.tech/](https://taimoorsalyhal.tech/) -->
 
 - 💬 Ask me about **HTML , CSS , Bootstrap , jquery , GSAP ,**
 
