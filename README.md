@@ -13,8 +13,11 @@
 
 - 💬 Ask me about **HTML , CSS , Bootstrap , jquery , GSAP ,**
 
+  <h1 align="center">Contact Me!</h1>
 - 📫 How to reach me **asfandtaimoor786@gmail.com**
+- 📫 Book an Appointment :  [**Book Meeting**](https://cal.com/TaimoorSalyhal)
 - 📫 Portfolio Website (https://taimoorsalyhal.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taimoorsalyhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asfandtaimoor71" height="30" width="40" /></a>
