@@ -1,6 +1,6 @@
 <img  style="width:100% ; margin-bottom:20px" src="https://webkype.com/assets/img/banner/ecc3882e29654a291f8824494979145b.gif" alt="coding" />
 <h1 align="center">Hi 👋, I'm Taimoor Salyhal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">CTO & CEO of SoftwareForge.tech</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" alt="coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfandtaimoor&label=Profile%20views&color=0e75b6&style=flat" alt="asfandtaimoor" /> </p>
@@ -9,14 +9,13 @@
 
 - 🌱 I’m currently learning **PHP**
 
-<!-- - 👨‍💻 All of my projects are available at [https://taimoorsalyhal.tech/](https://taimoorsalyhal.tech/) -->
+- 💌 Ask me about **Shopify store development, React Native mobile apps, MERN Stack, Next.js, React.js, Vue.js, and custom Shopify storefronts**
 
-- 💬 Ask me about **HTML , CSS , Bootstrap , jquery , GSAP ,**
-
-  <h1 align="center">Contact Me!</h1>
-- 📫 How to reach me **asfandtaimoor786@gmail.com**
-- 📫 Book an Appointment :  [**Book Meeting**](https://cal.com/TaimoorSalyhal)
-- 📫 Portfolio Website (https://taimoorsalyhal.com/)
+<h1 align="center">Contact Me!</h1>  
+- 💌 How to reach me **asfandtaimoor786@gmail.com** <br/>
+- 💌 Book an Appointment : https://cal.com/TaimoorSalyhal <br/>
+- 💌 Portfolio Website https://taimoorsalyhal.com/ <br/>
+- 💌 Company Website https://softwareforge.tech <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
