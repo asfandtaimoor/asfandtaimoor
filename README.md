@@ -12,7 +12,7 @@
 - 💌 Ask me about **Shopify store development, React Native mobile apps, MERN Stack, Next.js, React.js, Vue.js, and custom Shopify storefronts**
 
 <h1 align="center">Contact Me!</h1>  
-- 💌 How to reach me **asfandtaimoor786@gmail.com** <br/>
+- 💌 How to reach me : asfandtaimoor786@gmail.com <br/>
 - 💌 Book an Appointment : https://cal.com/TaimoorSalyhal <br/>
 - 💌 Portfolio Website https://taimoorsalyhal.com/ <br/>
 - 💌 Company Website https://softwareforge.tech <br/>
