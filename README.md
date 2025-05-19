@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/asfandtaimoor71" target="blank"><img src="https://img.shields.io/twitter/follow/asfandtaimoor71?logo=twitter&style=for-the-badge" alt="asfandtaimoor71" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **AI**
 
 - 💌 Ask me about **Shopify store development, React Native mobile apps, MERN Stack, Next.js, React.js, Vue.js, and custom Shopify storefronts**
 
